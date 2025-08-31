@@ -13,19 +13,6 @@ This project explores machine efficiency and predictive maintenance using real-w
 
 ---
 
-## 📂 Repository Structure
-machine_efficiency/
-│
-├── notebooks/ # Jupyter notebooks for EDA & modeling
-│ └── exploring.ipynb
-├── data/ # Dataset files (CSV from Kaggle)
-├── models/ # Future model files (Week 3+)
-├── app/ # App scripts (Week 4+)
-└── README.md # Project documentation
-
-
----
-
 ## 🛠️ Tech Stack
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook  
